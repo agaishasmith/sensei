@@ -1,0 +1,15 @@
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\bin\Debug\net7.0\task9.exe
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\bin\Debug\net7.0\task9.deps.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\bin\Debug\net7.0\task9.runtimeconfig.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\bin\Debug\net7.0\task9.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\bin\Debug\net7.0\task9.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\task9.csproj.AssemblyReference.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\task9.AssemblyInfoInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\task9.AssemblyInfo.cs
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\task9.csproj.CoreCompileInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\task9.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\refint\task9.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\task9.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\task9.genruntimeconfig.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task9\obj\Debug\net7.0\ref\task9.dll

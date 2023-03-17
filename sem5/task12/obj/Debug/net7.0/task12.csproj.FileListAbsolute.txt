@@ -1,0 +1,15 @@
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\task12.csproj.AssemblyReference.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\task12.AssemblyInfoInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\task12.AssemblyInfo.cs
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\task12.csproj.CoreCompileInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\bin\Debug\net7.0\task12.exe
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\bin\Debug\net7.0\task12.deps.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\bin\Debug\net7.0\task12.runtimeconfig.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\bin\Debug\net7.0\task12.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\bin\Debug\net7.0\task12.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\task12.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\refint\task12.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\task12.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\task12.genruntimeconfig.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task12\obj\Debug\net7.0\ref\task12.dll

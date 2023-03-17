@@ -1,0 +1,15 @@
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\task27.csproj.AssemblyReference.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\task27.AssemblyInfoInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\task27.AssemblyInfo.cs
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\task27.csproj.CoreCompileInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\bin\Debug\net7.0\task27.exe
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\bin\Debug\net7.0\task27.deps.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\bin\Debug\net7.0\task27.runtimeconfig.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\bin\Debug\net7.0\task27.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\bin\Debug\net7.0\task27.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\task27.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\refint\task27.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\task27.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\task27.genruntimeconfig.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task27\obj\Debug\net7.0\ref\task27.dll

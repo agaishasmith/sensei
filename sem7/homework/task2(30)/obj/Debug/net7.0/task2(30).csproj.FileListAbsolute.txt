@@ -1,0 +1,15 @@
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\task2(30).csproj.AssemblyReference.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\task2(30).GeneratedMSBuildEditorConfig.editorconfig
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\task2(30).AssemblyInfoInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\task2(30).AssemblyInfo.cs
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\task2(30).csproj.CoreCompileInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\bin\Debug\net7.0\task2(30).exe
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\bin\Debug\net7.0\task2(30).deps.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\bin\Debug\net7.0\task2(30).runtimeconfig.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\bin\Debug\net7.0\task2(30).dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\bin\Debug\net7.0\task2(30).pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\task2(30).dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\refint\task2(30).dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\task2(30).pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\task2(30).genruntimeconfig.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\sem7\homework\task2(30)\obj\Debug\net7.0\ref\task2(30).dll

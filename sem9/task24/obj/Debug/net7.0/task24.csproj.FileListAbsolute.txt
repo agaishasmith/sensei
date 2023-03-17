@@ -1,0 +1,15 @@
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\task24.csproj.AssemblyReference.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\task24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\task24.AssemblyInfoInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\task24.AssemblyInfo.cs
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\task24.csproj.CoreCompileInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\bin\Debug\net7.0\task24.exe
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\bin\Debug\net7.0\task24.deps.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\bin\Debug\net7.0\task24.runtimeconfig.json
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\bin\Debug\net7.0\task24.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\bin\Debug\net7.0\task24.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\task24.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\refint\task24.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\task24.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\task24.genruntimeconfig.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\forAggy\task24\obj\Debug\net7.0\ref\task24.dll
